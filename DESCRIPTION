@@ -1,0 +1,18 @@
+Package: SWMPtides
+Title: Predict and Visualize Tides from NERRS SWMP Stations
+Version: 0.0.0.9000
+Authors@R: 
+    person("Byron", "Toothman", email = "your@email.com", role = c("aut", "cre"))
+Description: Tools to extract tidal constituents from NERRS SWMP station data,
+    generate predictive tide tables, and create plots of high/low tides.
+License: GPL-3
+Depends: R (>= 4.2.0)
+Imports: 
+    dplyr,
+    lubridate,
+    ggplot2,
+    runner,
+    TideHarmonics
+Encoding: UTF-8
+LazyData: true
+
