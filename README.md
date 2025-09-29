@@ -37,7 +37,7 @@ In the future, these predictions could also be available as an online tool (e.g.
 
 This package is currently hosted on GitHub.  
 
-```r
+```rhttps://github.com/byrontoothman/SWMPtides/tree/main
 # Install devtools if needed
 install.packages("devtools")
 
